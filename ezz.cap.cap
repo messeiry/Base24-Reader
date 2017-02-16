@@ -1,0 +1,910 @@
+N00133 13:31:29.225 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 13:31:29.227 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH1        
+          Bad CAF key:  4152542031303000   000
+N00150 13:32:08.684 SSID: ACI.XPSNCP.3100        01012 GENERATOR: XPNCP            
+          Extended Memory Pool Usage - Current 0% used, max 0% used.
+N00133 13:32:12.443 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 13:32:12.445 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH1        
+          Bad CAF key:  4152540744126015   000
+N00230
+6 A6$13:32:26.329 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1A^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4407   
+
+6 A6$              , card 5407593148967872
+N00148
+6 A6$13:33:46.951 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00418
+6 A6$13:33:46.959 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+
+6 A6$13:33:46.961 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+
+6 A6$13:33:46.962 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00133 13:36:40.492 SSID: ACI.SKEL-U.1000        01090 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transaction Requests:   000548
+N00918 13:36:40.492 SSID: ACI.SKEL-U.1000        01095 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Processed: 000548
+ 13:36:40.493 SSID: ACI.SKEL-U.1000        01100 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Late Responses:         000000
+ 13:36:40.493 SSID: ACI.SKEL-U.1000        01105 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Records in DSAF File:   000000
+ 13:36:40.494 SSID: ACI.SKEL-U.1000        01110 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Timed out: 000000
+ 13:36:40.494 SSID: ACI.SKEL-U.1000        01115 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Requests:   000000
+ 13:36:40.495 SSID: ACI.SKEL-U.1000        01116 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Processed:  000000
+ 13:36:40.495 SSID: ACI.SKEL-U.1000        01117 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Late Responses:     N00146    000000
+ 13:36:40.508 SSID: ACI.SKEL-U.1000        01118 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transactions Timed out: 000000
+N00179 13:36:44.141 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00182 13:36:48.663 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00148
+6 A6$13:38:47.968 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$13:38:47.969 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$13:38:47.978 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$13:38:47.979 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00133 13:39:57.296 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 13:39:57.298 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH1        
+          Bad CAF key:  4152541768471022   000
+N00191 13:41:33.524 SSID: ACI.SKEL-U.1000        07114 GENERATOR: P1B^N50          
+          Uns:bna        : Device status 1, ???????P???dZ??e???dZ??e??????,
+           M-data=03000003000008
+N00133 13:43:31.254 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1B^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 13:43:31.255 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1B^AUTH1        
+          Bad CAF key:  4152542010838018   000
+N00148
+6 A6$13:43:48.985 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$13:43:48.986 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$13:43:48.995 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$13:43:48.996 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00133 13:43:59.699 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 13:43:59.700 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH2        
+          Bad CAF key:  4685642016104013   000
+N00363 13:45:13.257 SSID: TANDEM.PATHWAY.H01     01048 GENERATOR:                  
+          \BURG.$PPMN: ERROR  - *1048* TERM 254-ZTN2-28C,       SUSPENDED:
+           *3018* ERROR DURING TERMINAL IO (60) --- INST CODE: ACCEPT AT     
+           OFFSET %2354 IN PROGRAM UNIT T6520-MEGA(2) IN TCLPROG              
+                     \BURG.$D0101.BA6POBJ.POBJ
+N00182 13:48:16.521 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00148
+6 A6$13:48:50.002 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$13:48:50.003 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$13:48:50.013 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$13:48:50.013 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00352
+6 A6$13:52:31.791 SSID: ACI.XPNET.3100         06290 GENERATOR: XPNET            
+
+6 A6$         CTS request error 6 (connection terminated abnormally) for station
+
+6 A6$          S1B0792 on line L1B0792, request RECEIVE_DATA CTS subsystem error
+
+6 A6$          4126 ((ETIMEDOUT) Connection timed out), connection terminated.
+N00125 13:52:31.799 SSID: ACI.SKEL-U.1000        00459 GENERATOR: P1B^N502         
+          ATM S1B0792 has been DISCONNECTED
+N00122 13:52:31.804 SSID: ACI.SKEL-U.1000        00461 GENERATOR: P1B^N502         
+          ATM S1B0792 has been marked UP
+N00206
+6 A6$13:52:53.548 SSID: ACI.SKEL-U.1000        08427 GENERATOR: P1A^N502         
+
+6 A6$         Uns:card rd/wr : Device status 0, Invalid card detected,
+
+6 A6$          M-data=0D020019
+N00156
+6 A6$13:52:54.008 SSID: ACI.SKEL-U.1000        08403 GENERATOR: P1A^N502         
+
+6 A6$         Uns:card rd/wr : Device status 0, Read error
+N00148
+6 A6$13:53:51.019 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$13:53:51.020 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$13:53:51.029 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$13:53:51.029 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00148
+6 A6$13:55:26.460 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^POWER2       
+
+6 A6$         STATION S1A^POWER2       marked down
+N00156
+6 A6$13:55:26.461 SSID: ACI.SKEL-U.1000        00510 GENERATOR: P1A^POWER2       
+
+6 A6$         DPC 0002 MARKED DOWN - MAX TIMEOUTS EXCEEDED
+N00146
+6 A6$13:56:26.472 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^POWER2       
+
+6 A6$         STATION S1A^POWER2       marked up
+N00135
+6 A6$13:56:26.479 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^POWER2       
+
+6 A6$         DPC 0002 LINK MARKED UP
+N00133 13:56:40.497 SSID: ACI.SKEL-U.1000        01090 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transaction Requests:   000548
+N00918 13:56:40.498 SSID: ACI.SKEL-U.1000        01095 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Processed: 000548
+ 13:56:40.499 SSID: ACI.SKEL-U.1000        01100 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Late Responses:         000000
+ 13:56:40.499 SSID: ACI.SKEL-U.1000        01105 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Records in DSAF File:   000000
+ 13:56:40.499 SSID: ACI.SKEL-U.1000        01110 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Timed out: 000000
+ 13:56:40.500 SSID: ACI.SKEL-U.1000        01115 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Requests:   000000
+ 13:56:40.500 SSID: ACI.SKEL-U.1000        01116 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Processed:  000000
+ 13:56:40.501 SSID: ACI.SKEL-U.1000        01117 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Late Responses:     N00146    000000
+ 13:56:40.501 SSID: ACI.SKEL-U.1000        01118 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transactions Timed out: 000000
+N00159
+6 A6$13:57:06.607 SSID: ACI.SKEL-U.1000        00530 GENERATOR: P1A^POWER2       
+
+6 A6$         DPC 0002 RETRIES EXCEEDED - SAF RECORD FOLLOWS:
+N00242
+6 A6$13:57:06.620 SSID: ACI.SKEL-U.1000        00531 GENERATOR: P1A^POWER2       
+
+6 A6$         ISO016000 400321C220000002010000000000200800010016415254209744301302
+
+6 A6$         1510543601630600010000BURG000402CF109  2
+N00182 13:57:07.568 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00159
+6 A6$13:58:17.367 SSID: ACI.SKEL-U.1000        00530 GENERATOR: P1A^POWER2       
+
+6 A6$         DPC 0002 RETRIES EXCEEDED - SAF RECORD FOLLOWS:
+N00242
+6 A6$13:58:17.367 SSID: ACI.SKEL-U.1000        00531 GENERATOR: P1A^POWER2       
+
+6 A6$         ISO016000 400321C220000002010000000000200800010016415254203388501202
+
+6 A6$         1510545601630700010000BURG000402CF109  2
+N00145 13:58:29.533 SSID: ACI.SKEL-U.1000        02603 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to supervisor mode
+N00134 13:58:29.538 SSID: ACI.SKEL-U.1000        00467 GENERATOR: P1B^N502         
+          STATE of ATM S1B1101 has changed to CLOSED
+N00138 13:58:36.543 SSID: ACI.SKEL-U.1000        00448 GENERATOR: P1B^N502         
+          exit          key pressed from the Select Menu
+N00148
+6 A6$13:58:52.036 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00418
+6 A6$13:58:52.037 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+
+6 A6$13:58:52.050 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+
+6 A6$13:58:52.050 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00141 13:58:54.389 SSID: ACI.SKEL-U.1000        02601 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to normal mode
+N00131 13:58:54.580 SSID: ACI.SKEL-U.1000        00504 GENERATOR: P1B^N502         
+          SHUTDOWN was successful for ATM S1B1101
+N00133 13:58:54.790 SSID: ACI.SKEL-U.1000        00515 GENERATOR: P1B^N502         
+          SUPPLY Counters received from ATM S1B1101
+N00130 13:58:56.028 SSID: ACI.SKEL-U.1000        00511 GENERATOR: P1B^N502         
+          COMMUNICATIONS key sent to ATM S1B1101
+N00205 13:58:56.392 SSID: ACI.SKEL-U.1000        00469 GENERATOR: P1B^N502         
+          New Config ID number of 0135 (retrieved from CONFIG file
+           $D0101.PRO1EMV.CNFG5070) sent to ATM S1B1101
+N00149 13:58:56.793 SSID: ACI.SKEL-U.1000        00507 GENERATOR: P1B^N502         
+          STARTUP was successful for ATM S1B1101 - LOAD is complete
+N00132 13:58:56.814 SSID: ACI.SKEL-U.1000        00466 GENERATOR: P1B^N502         
+          STATE of ATM S1B1101 has changed to OPEN
+N00363 14:00:36.191 SSID: TANDEM.PATHWAY.H01     01048 GENERATOR:                  
+          \BURG.$PPMN: ERROR  - *1048* TERM 254-ZTN2-28E,       SUSPENDED:
+           *3018* ERROR DURING TERMINAL IO (60) --- INST CODE: ACCEPT AT     
+           OFFSET %2354 IN PROGRAM UNIT T6520-MEGA(2) IN TCLPROG              
+                     \BURG.$D0101.BA6POBJ.POBJ
+N00150 14:02:08.687 SSID: ACI.XPSNCP.3100        01012 GENERATOR: XPNCP            
+          Extended Memory Pool Usage - Current 0% used, max 0% used.
+N00130 14:02:28.092 SSID: ACI.XPNET.3100         04043 GENERATOR: XPNET            
+          Queued messages: current 0, maximum 54
+N00589 14:02:28.092 SSID: ACI.XPNET.3100         04042 GENERATOR: XPNET            
+          Queue memory: current 172, maximum 15452
+ 14:02:28.093 SSID: ACI.XPNET.3100         04050 GENERATOR: XPNET            
+          Queued messages: unavailable services 0, unknown destinations 0
+ 14:02:28.093 SSID: ACI.XPNET.3100         04041 GENERATOR: XPNET            
+          Memory Pool 0: 8388608 bytes, used 2830504 (34%), free 5558104 (66%)
+ 14:02:28.093 SSID: ACI.XPNET.3100         04037 GENERATOR: XPNET            
+          Audit file \BURG.$D0107.PRO1AUD.P1BAUDC is 1% full
+N00132 14:02:30.465 SSID: ACI.SKEL-U.1000        03420 GENERATOR: P1A^VISA^SMS     
+          CUTOVER COMPLETE-PROCESSING FOR NEXT DAY
+N00131 14:03:15.880 SSID: ACI.XPNET.3100         04043 GENERATOR: XPNET            
+          Queued messages: current 0, maximum 459
+N00590 14:03:15.881 SSID: ACI.XPNET.3100         04042 GENERATOR: XPNET            
+          Queue memory: current 172, maximum 184980
+ 14:03:15.882 SSID: ACI.XPNET.3100         04050 GENERATOR: XPNET            
+          Queued messages: unavailable services 0, unknown destinations 0
+ 14:03:15.882 SSID: ACI.XPNET.3100         04041 GENERATOR: XPNET            
+          Memory Pool 0: 8388608 bytes, used 2440216 (30%), free 5948392 (70%)
+ 14:03:15.882 SSID: ACI.XPNET.3100         04037 GENERATOR: XPNET            
+          Audit file \BURG.$D0107.PRO1AUD.P1AAUDA is 0% full
+N00182 14:03:20.734 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00179 14:03:40.417 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00180 14:03:40.863 SSID: ACI.SKEL-U.1000        06409 GENERATOR: P1B^N50          
+          Uns:card rd/wr : Device status 0, Error recovery successful,
+           M-data=0B021039
+N00179 14:03:42.410 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:03:44.415 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00148
+6 A6$14:03:53.053 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00418
+6 A6$14:03:53.054 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+
+6 A6$14:03:53.063 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+
+6 A6$14:03:53.064 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00179 14:05:24.497 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:05:26.497 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:05:28.302 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00180 14:06:16.470 SSID: ACI.SKEL-U.1000        06409 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 0, Error recovery successful,
+           M-data=0D02000A
+N00180 14:06:16.683 SSID: ACI.SKEL-U.1000        06409 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 0, Error recovery successful,
+           M-data=0B02000C
+N00145 14:07:28.496 SSID: ACI.SKEL-U.1000        02603 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to supervisor mode
+N00134 14:07:28.500 SSID: ACI.SKEL-U.1000        00467 GENERATOR: P1B^N502         
+          STATE of ATM S1B2011 has changed to CLOSED
+N00138 14:07:32.301 SSID: ACI.SKEL-U.1000        00448 GENERATOR: P1B^N502         
+          exit          key pressed from the Select Menu
+N00141 14:07:49.726 SSID: ACI.SKEL-U.1000        02601 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to normal mode
+N00131 14:07:49.927 SSID: ACI.SKEL-U.1000        00504 GENERATOR: P1B^N502         
+          SHUTDOWN was successful for ATM S1B2011
+N00133 14:07:50.127 SSID: ACI.SKEL-U.1000        00515 GENERATOR: P1B^N502         
+          SUPPLY Counters received from ATM S1B2011
+N00130 14:07:51.363 SSID: ACI.SKEL-U.1000        00511 GENERATOR: P1B^N502         
+          COMMUNICATIONS key sent to ATM S1B2011
+N00205 14:07:51.730 SSID: ACI.SKEL-U.1000        00469 GENERATOR: P1B^N502         
+          New Config ID number of 0135 (retrieved from CONFIG file
+           $D0101.PRO1EMV.CNFG5070) sent to ATM S1B2011
+N00149 14:07:52.130 SSID: ACI.SKEL-U.1000        00507 GENERATOR: P1B^N502         
+          STARTUP was successful for ATM S1B2011 - LOAD is complete
+N00132 14:07:52.146 SSID: ACI.SKEL-U.1000        00466 GENERATOR: P1B^N502         
+          STATE of ATM S1B2011 has changed to OPEN
+N00148
+6 A6$14:08:54.070 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:08:54.070 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:08:54.080 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:08:54.080 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00352
+6 A6$14:09:14.703 SSID: ACI.XPNET.3100         06290 GENERATOR: XPNET            
+
+6 A6$         CTS request error 6 (connection terminated abnormally) for station
+
+6 A6$          S1B0390 on line L1B0390, request RECEIVE_DATA CTS subsystem error
+
+6 A6$          4126 ((ETIMEDOUT) Connection timed out), connection terminated.
+N00125 14:09:14.707 SSID: ACI.SKEL-U.1000        00459 GENERATOR: P1B^N502         
+          ATM S1B0390 has been DISCONNECTED
+N00154
+6 A6$14:09:26.825 SSID: ACI.SKEL-U.1000        04109 GENERATOR: P1B^N502         
+
+6 A6$         Atm S1B1490, Invalid CAM Data. Flags 1004.
+N00145 14:10:10.682 SSID: ACI.SKEL-U.1000        02603 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to supervisor mode
+N00134 14:10:10.690 SSID: ACI.SKEL-U.1000        00467 GENERATOR: P1B^N502         
+          STATE of ATM S1B2011 has changed to CLOSED
+N00138 14:10:15.700 SSID: ACI.SKEL-U.1000        00448 GENERATOR: P1B^N502         
+          exit          key pressed from the Select Menu
+N00141 14:10:32.724 SSID: ACI.SKEL-U.1000        02601 GENERATOR: P1B^N502         
+          Uns:sensors    : Mode switch moved to normal mode
+N00131 14:10:32.925 SSID: ACI.SKEL-U.1000        00504 GENERATOR: P1B^N502         
+          SHUTDOWN was successful for ATM S1B2011
+N00133 14:10:33.125 SSID: ACI.SKEL-U.1000        00515 GENERATOR: P1B^N502         
+          SUPPLY Counters received from ATM S1B2011
+N00130 14:10:34.362 SSID: ACI.SKEL-U.1000        00511 GENERATOR: P1B^N502         
+          COMMUNICATIONS key sent to ATM S1B2011
+N00205 14:10:34.727 SSID: ACI.SKEL-U.1000        00469 GENERATOR: P1B^N502         
+          New Config ID number of 0135 (retrieved from CONFIG file
+           $D0101.PRO1EMV.CNFG5070) sent to ATM S1B2011
+N00149 14:10:35.128 SSID: ACI.SKEL-U.1000        00507 GENERATOR: P1B^N502         
+          STARTUP was successful for ATM S1B2011 - LOAD is complete
+N00132 14:10:35.144 SSID: ACI.SKEL-U.1000        00466 GENERATOR: P1B^N502         
+          STATE of ATM S1B2011 has changed to OPEN
+N00133 14:10:45.911 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 14:10:45.911 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH2        
+          Bad CAF key:  5275252064193000   000
+N00148
+6 A6$14:13:55.087 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:13:55.087 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:13:55.097 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:13:55.097 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00133 14:14:37.492 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 14:14:37.493 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH2        
+          Bad CAF key:  4152540739241001   000
+N00122 14:15:33.952 SSID: ACI.SKEL-U.1000        00461 GENERATOR: P1B^N502         
+          ATM S1B0390 has been marked UP
+N00127 14:15:34.433 SSID: ACI.SKEL-U.1000        00445 GENERATOR: P1B^N502         
+          ATM S1B0390 sent a Power Up message
+N00130 14:15:38.509 SSID: ACI.SKEL-U.1000        00511 GENERATOR: P1B^N502         
+          COMMUNICATIONS key sent to ATM S1B0390
+N00205 14:15:39.281 SSID: ACI.SKEL-U.1000        00469 GENERATOR: P1B^N502         
+          New Config ID number of 0135 (retrieved from CONFIG file
+           $D0101.PRO1EMV.CNFG5070) sent to ATM S1B0390
+N00149 14:15:40.116 SSID: ACI.SKEL-U.1000        00507 GENERATOR: P1B^N502         
+          STARTUP was successful for ATM S1B0390 - LOAD is complete
+N00133 14:16:40.504 SSID: ACI.SKEL-U.1000        01090 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transaction Requests:   000496
+N00918 14:16:40.505 SSID: ACI.SKEL-U.1000        01095 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Processed: 000496
+ 14:16:40.505 SSID: ACI.SKEL-U.1000        01100 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Late Responses:         000000
+ 14:16:40.505 SSID: ACI.SKEL-U.1000        01105 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Records in DSAF File:   000000
+ 14:16:40.506 SSID: ACI.SKEL-U.1000        01110 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Timed out: 000000
+ 14:16:40.515 SSID: ACI.SKEL-U.1000        01115 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Requests:   000000
+ 14:16:40.515 SSID: ACI.SKEL-U.1000        01116 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Processed:  000000
+ 14:16:40.515 SSID: ACI.SKEL-U.1000        01117 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Late Responses:     N00146    000000
+ 14:16:40.515 SSID: ACI.SKEL-U.1000        01118 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transactions Timed out: 000000
+N00133 14:18:05.047 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1B^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 14:18:05.049 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1B^AUTH2        
+          Bad CAF key:  4152541129672003   000
+N00148
+6 A6$14:18:56.104 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:18:56.104 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:18:56.114 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:18:56.114 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00133 14:19:47.757 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1B^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 14:19:47.768 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1B^AUTH1        
+          Bad CAF key:  4152544660813002   000
+N00352
+6 A6$14:20:04.749 SSID: ACI.XPNET.3100         06290 GENERATOR: XPNET            
+
+6 A6$         CTS request error 6 (connection terminated abnormally) for station
+
+6 A6$          S1B0792 on line L1B0792, request RECEIVE_DATA CTS subsystem error
+
+6 A6$          4126 ((ETIMEDOUT) Connection timed out), connection terminated.
+N00125 14:20:04.752 SSID: ACI.SKEL-U.1000        00459 GENERATOR: P1B^N502         
+          ATM S1B0792 has been DISCONNECTED
+N00122 14:20:04.758 SSID: ACI.SKEL-U.1000        00461 GENERATOR: P1B^N502         
+          ATM S1B0792 has been marked UP
+N00179 14:20:22.906 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:20:24.928 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00230
+6 A6$14:20:51.495 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4152   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:21:13.924 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4153   
+
+6 A6$              , card 5407592077111007
+N00133 14:21:15.744 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 14:21:15.755 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH2        
+          Bad CAF key:  4152543203502015   000
+N00230
+6 A6$14:21:51.679 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4154   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:22:51.521 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 3210   
+
+6 A6$              , card 5407592077111007
+N00148
+6 A6$14:23:57.121 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:23:57.121 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:23:57.131 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:23:57.131 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00230
+6 A6$14:24:09.455 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 3212   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:25:07.889 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 1422   
+
+6 A6$              , card 5407592077111007
+N00179
+6 A6$14:25:13.206 SSID: ACI.SKEL-U.1000        00304 GENERATOR: P1B^N50          
+
+6 A6$         Received an unknown operation code buffer CAA      from ATM S3B0202
+N00230
+6 A6$14:25:23.309 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 1423   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:25:56.910 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 1424   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:26:26.877 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4155   
+
+6 A6$              , card 5407592077111007
+N00230
+6 A6$14:26:38.520 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4156   
+
+6 A6$              , card 5407592077111007
+N00133 14:27:08.189 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1B^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 14:27:08.190 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1B^AUTH1        
+          Bad CAF key:  4152543783541003   000
+N00363 14:28:05.805 SSID: TANDEM.PATHWAY.H01     01048 GENERATOR:                  
+          \BURG.$PPMN: ERROR  - *1048* TERM 254-ZTN2-293,       SUSPENDED:
+           *3018* ERROR DURING TERMINAL IO (60) --- INST CODE: ACCEPT AT     
+           OFFSET %2354 IN PROGRAM UNIT T6520-MEGA(2) IN TCLPROG              
+                     \BURG.$D0101.BA6POBJ.POBJ
+N00148
+6 A6$14:28:58.113 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:28:58.114 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:28:58.123 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:28:58.123 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00220
+6 A6$14:30:05.065 SSID: ACI.SKEL-U.1000        00790 GENERATOR: P1A^URAM^1       
+
+6 A6$         Unexpected Event Scb=001 event=Remote response OK SCB-State=Wait for
+
+6 A6$          local app request
+N00139 14:30:50.528 SSID: ACI.SKEL-U.1000        06400 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 1, Card Retained
+N00154
+6 A6$14:31:28.660 SSID: ACI.SKEL-U.1000        04109 GENERATOR: P1B^N502         
+
+6 A6$         Atm S1B4602, Invalid CAM Data. Flags 1004.
+N00150 14:32:08.682 SSID: ACI.XPSNCP.3100        01012 GENERATOR: XPNCP            
+          Extended Memory Pool Usage - Current 0% used, max 0% used.
+N00352
+6 A6$14:32:24.571 SSID: ACI.XPNET.3100         06290 GENERATOR: XPNET            
+
+6 A6$         CTS request error 6 (connection terminated abnormally) for station
+
+6 A6$          S1B1491 on line L1B1491, request RECEIVE_DATA CTS subsystem error
+
+6 A6$          4126 ((ETIMEDOUT) Connection timed out), connection terminated.
+N00247 14:32:24.581 SSID: ACI.SKEL-U.1000        00459 GENERATOR: P1B^N502         
+          ATM S1B1491 has been DISCONNECTED
+ 14:32:24.582 SSID: ACI.SKEL-U.1000        00461 GENERATOR: P1B^N502         
+          ATM S1B1491 has been marked UP
+N00215
+6 A6$14:33:12.394 SSID: ACI.SKEL-U.1000        08413 GENERATOR: P1A^N50          
+
+6 A6$         Uns:card rd/wr : Device status 0, Card in throat-poss cust tampr,
+
+6 A6$          M-data=0B0208B9
+N00170
+6 A6$14:33:12.594 SSID: ACI.SKEL-U.1000        08420 GENERATOR: P1A^N50          
+
+6 A6$         Uns:card rd/wr : Device status 0, Device still inoperative
+N00215
+6 A6$14:33:49.016 SSID: ACI.SKEL-U.1000        08413 GENERATOR: P1A^N502         
+
+6 A6$         Uns:card rd/wr : Device status 0, Card in throat-poss cust tampr,
+
+6 A6$          M-data=0B0208B9
+N00170
+6 A6$14:33:49.214 SSID: ACI.SKEL-U.1000        08420 GENERATOR: P1A^N502         
+
+6 A6$         Uns:card rd/wr : Device status 0, Device still inoperative
+N00148
+6 A6$14:33:59.086 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:33:59.086 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:33:59.096 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:33:59.096 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00182 14:34:40.354 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00352
+6 A6$14:35:40.323 SSID: ACI.XPNET.3100         06290 GENERATOR: XPNET            
+
+6 A6$         CTS request error 6 (connection terminated abnormally) for station
+
+6 A6$          S1B1491 on line L1B1491, request RECEIVE_DATA CTS subsystem error
+
+6 A6$          4126 ((ETIMEDOUT) Connection timed out), connection terminated.
+N00125 14:35:40.326 SSID: ACI.SKEL-U.1000        00459 GENERATOR: P1B^N502         
+          ATM S1B1491 has been DISCONNECTED
+N00122 14:35:40.332 SSID: ACI.SKEL-U.1000        00461 GENERATOR: P1B^N502         
+          ATM S1B1491 has been marked UP
+N00133 14:36:40.507 SSID: ACI.SKEL-U.1000        01090 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transaction Requests:   000556
+N00918 14:36:40.508 SSID: ACI.SKEL-U.1000        01095 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Processed: 000556
+ 14:36:40.508 SSID: ACI.SKEL-U.1000        01100 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Late Responses:         000000
+ 14:36:40.508 SSID: ACI.SKEL-U.1000        01105 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Records in DSAF File:   000000
+ 14:36:40.509 SSID: ACI.SKEL-U.1000        01110 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of A/R Transactions Timed out: 000000
+ 14:36:40.509 SSID: ACI.SKEL-U.1000        01115 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Requests:   000000
+ 14:36:40.522 SSID: ACI.SKEL-U.1000        01116 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transaction Processed:  000000
+ 14:36:40.522 SSID: ACI.SKEL-U.1000        01117 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Late Responses:     N00146    000000
+ 14:36:40.522 SSID: ACI.SKEL-U.1000        01118 GENERATOR: P1A^PIP^ACQUIRER 
+          No. of R/T Transactions Timed out: 000000
+N00179 14:37:36.924 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:37:38.726 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:37:40.548 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00180 14:38:13.856 SSID: ACI.SKEL-U.1000        06409 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 0, Error recovery successful,
+           M-data=05000890
+N00179 14:38:26.368 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:38:28.378 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:38:30.393 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:38:50.326 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:38:52.329 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:38:54.134 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00148
+6 A6$14:39:00.103 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:39:00.104 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:39:00.113 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:39:00.113 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00179 14:39:11.519 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:39:13.521 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:39:15.327 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00182 14:39:18.722 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00179 14:39:43.432 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:39:45.234 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:39:47.257 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:07.496 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:09.498 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:11.492 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:35.181 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:37.180 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:39.194 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N50          
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00133 14:40:48.529 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH2        
+          Bank BURG; 'From Account' index not found
+N00128 14:40:48.529 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH2        
+          Bad CAF key:  4152541117201005   000
+N00133 14:40:50.587 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1B^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 14:40:50.587 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1B^AUTH1        
+          Bad CAF key:  4152544720874002   000
+N00179 14:40:57.432 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:40:59.434 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:41:01.448 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00133 14:41:13.227 SSID: ACI.SKEL-U.1000        00016 GENERATOR: P1A^AUTH1        
+          Bank BURG; 'From Account' index not found
+N00128 14:41:13.229 SSID: ACI.SKEL-U.1000        00015 GENERATOR: P1A^AUTH1        
+          Bad CAF key:  4152544192797012   000
+N00179 14:41:53.873 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:41:55.684 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:41:57.480 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1A^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00223 14:42:10.924 SSID: ACI.SKEL-U.1000        03274 GENERATOR: P1A^RTAU         
+          Invalid data from card verify  utilities; Bank BURG; pan
+           4381232009304015; manual exp dat 1801; cvd      ; srvc cde 000
+N00148
+6 A6$14:44:01.119 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:44:01.120 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:44:01.129 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:44:01.130 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00136 14:44:02.933 SSID: ACI.SKEL-U.1000        04364 GENERATOR: P1A^VISA^SMS     
+          RSAF ISSUER UNAVAILABLE PROCESSING HAS BEGUN
+N00145 14:44:02.933 SSID: ACI.SKEL-U.1000        02068 GENERATOR: P1A^VISA^SMS     
+          RSAF ISSUER UNAVAILABLE PROCESSING HAS BEEN COMPLETED
+N00136 14:44:03.479 SSID: ACI.SKEL-U.1000        04364 GENERATOR: P1B^VISA^BASE    
+          RSAF ISSUER UNAVAILABLE PROCESSING HAS BEGUN
+N00145 14:44:03.479 SSID: ACI.SKEL-U.1000        02068 GENERATOR: P1B^VISA^BASE    
+          RSAF ISSUER UNAVAILABLE PROCESSING HAS BEEN COMPLETED
+N00182 14:44:25.579 SSID: ACI.SKEL-U.1000        04056 GENERATOR: P1A^POWER2       
+          POS  SEGMENT 002 OF FIID BURG IS TURNED ON IN IDF; SEM DOES NOT HAVE
+           THIS DATA
+N00179 14:48:46.685 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:48:48.146 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00179 14:48:49.949 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00148
+6 A6$14:49:02.136 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:49:02.137 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:49:02.148 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:49:02.148 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00179 14:49:39.498 SSID: ACI.SKEL-U.1000        06481 GENERATOR: P1B^N502         
+          Uns:card rd/wr : Device status 9, No smart card response,
+           M-data=7020000000
+N00180 14:51:59.852 SSID: ACI.SKEL-U.1000        06409 GENERATOR: P1B^N50          
+          Uns:card rd/wr : Device status 0, Error recovery successful,
+           M-data=0B021000
+N00230
+6 A6$14:53:40.004 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1B^AUTH1        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 8761   
+
+6 A6$              , card 5407592025033006
+N00148
+6 A6$14:54:03.153 SSID: ACI.SKEL-U.1000        00986 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked down
+N00137
+6 A6$14:54:03.154 SSID: ACI.SKEL-U.1000        00911 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED DOWN
+N00146
+6 A6$14:54:03.163 SSID: ACI.SKEL-U.1000        00985 GENERATOR: P1A^HISO^E24     
+
+6 A6$         STATION S1A^HOST^E241    marked up
+N00135
+6 A6$14:54:03.164 SSID: ACI.SKEL-U.1000        00910 GENERATOR: P1A^HISO^E24     
+
+6 A6$         DPC 0001 LINK MARKED UP
+N00230
+6 A6$14:54:12.518 SSID: ACI.SKEL-U.1000        00902 GENERATOR: P1A^AUTH2        
+
+6 A6$         Error retrieving PBF account data for CSM Surcharging - tran 4281   
+
+6 A6$              , card 4152541673253002
+
